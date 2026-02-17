@@ -1,0 +1,24 @@
+# Flask core
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-RESTful==0.3.10
+python-dotenv==1.0.0
+Werkzeug==3.0.1
+
+# Computer Vision & ML
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.1.0
+torch==2.1.0
+torchvision==0.16.0
+ultralytics==8.0.196
+
+# Video processing
+moviepy==1.0.3
+imageio==2.31.6
+imutils==0.5.4
+
+# Utilities
+requests==2.31.0
+tqdm==4.66.1
+python-multipart==0.0.6
